@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TISI Aircraft</string>
+    <string name="i_have_to_fly">WELCOME!\n To TISI Aircraft</string>
+    <string name="play">Play</string>
+    <string name="high_score">High Score</string>
+    <string name="developers">Developed by Al Mamun, SM Jibon, Mohon S, Ali and their team</string>
+</resources>
